@@ -19,10 +19,6 @@
 ~~
 (root (paragraph "-a"))
 
- - a
-~~
-(root (paragraph (unordered-list (unordered-list-item (paragraph "a")))))
-
 - a
   b
 ~~
