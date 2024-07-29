@@ -24,7 +24,7 @@
 
 ''a''(color red)
 ~~
-(root (paragraph (compound ((color 255 0 0))) "a"))
+(root (paragraph (compound ((color 255 0 0)) "a")))
 
 ''a''(color #FFFFFF)
 ~~
